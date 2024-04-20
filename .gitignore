@@ -1,0 +1,3 @@
+# all .png files
+*.png
+__pycache__/
