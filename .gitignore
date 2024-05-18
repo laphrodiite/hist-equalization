@@ -1,3 +1,4 @@
 # all .png files
 *.png
+*.jpg
 __pycache__/
